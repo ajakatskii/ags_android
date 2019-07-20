@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="face_bg">#581845</color>
+    <color name="payment_bg">#c70039</color>
+    <color name="settings_bg">#ff5733</color>
+    <color name="payment_main_bg">#20639b</color>
+</resources>
